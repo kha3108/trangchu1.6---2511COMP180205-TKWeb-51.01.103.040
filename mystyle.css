@@ -1,0 +1,17 @@
+.container-fluid {
+    background-color: rgb(120, 236, 198);
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+nav li a:hover{
+    background-color: rgb(141, 241, 208);
+    padding: 20px;
+}
+img {
+    width: 30px;
+    float:left;
+    display: block;
+}
